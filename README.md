@@ -1,5 +1,6 @@
 Hi 👋 My name is Samiya Nisar
 =============================
+![Cover Pic with name 01](https://user-images.githubusercontent.com/84321426/187043459-c22cc948-52b1-45e0-b272-b78a3e8409ca.png)
 
 Web Developer and Data Structure Enthusiast
 -------------------------------------------
